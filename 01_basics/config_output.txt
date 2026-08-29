@@ -1,0 +1,3 @@
+user.name=nima.rs
+user.email=nimarasouli16@gmail.com
+core.editor=code --wait
